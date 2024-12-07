@@ -1,5 +1,4 @@
-# Weather and QoS Single-Prediction Script
-
+# Network Slicing in Weather Forcasting System
 ## Team Members
 
 - **Nishant Dev**  
@@ -29,6 +28,10 @@ This repository continues the work from the [Weather Forecasting AI Project](htt
 ## Overview
 
 This README provides information on how to use the single-prediction script designed to load a pre-trained weather and QoS (Quality of Service) model, preprocess input data, make a single prediction, and print the steps involved in the process.
+
+## Video Link
+
+This link contains the video demonstration [Network Slicing in Weather Forcasting System](https://drive.google.com/file/d/11t74k2zX4ug39dKNRJuVb35oT-ysExQR/view?usp=sharing).
 
 ## Key Features
 
