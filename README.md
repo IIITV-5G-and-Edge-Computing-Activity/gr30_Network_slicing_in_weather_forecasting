@@ -21,6 +21,10 @@
 - **Tanmay Meshram**  
   - Branch: Information Technology  
   - ID: 202152341@iiitvadodara.ac.in
+ 
+## Continuation of Edge Computing Project
+
+This repository continues the work from the [Weather Forecasting AI Project](https://github.com/sid142003/weather-foreasting-AI).
 
 ## Overview
 
